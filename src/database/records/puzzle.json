@@ -1,0 +1,74 @@
+[
+  {
+    "puzzleId": 1,
+    "task": {
+      "key": "",
+      "socialType": "twitter",
+      "title": "Follow twitter"
+    }
+  },
+  {
+    "puzzleId": 2,
+    "task": {
+      "key": "",
+      "socialType": "discord",
+      "title": "Join Discord"
+    }
+  },
+  {
+    "puzzleId": 3,
+    "task": {
+      "key": "",
+      "socialType": "twitter",
+      "title": "Like & RT"
+    }
+  },
+  {
+    "puzzleId": 4,
+    "task": {
+      "key": "",
+      "socialType": "website",
+      "title": "Visit website"
+    }
+  },
+  {
+    "puzzleId": 5,
+    "task": {
+      "key": "",
+      "socialType": "discord",
+      "title": "Send meme about Stark Sailor to #meme-share channel on Discord"
+    }
+  },
+  {
+    "puzzleId": 6,
+    "task": {
+      "key": "",
+      "socialType": "discord",
+      "title": "Add #StarkSailor ⛵️ to your Discord Username"
+    }
+  },
+  {
+    "puzzleId": 7,
+    "task": {
+      "key": "",
+      "socialType": "twitter",
+      "title": "Turn on Notifications from Stark Sailor Twitter"
+    }
+  },
+  {
+    "puzzleId": 8,
+    "task": {
+      "key": "",
+      "socialType": "twitter",
+      "title": "Comment with the phrase 'To the seas! 🚀 #StarkSailorAlpha'"
+    }
+  },
+  {
+    "puzzleId": 9,
+    "task": {
+      "key": "",
+      "socialType": "twitter",
+      "title": "Tweet about Stark Sailor Demo Version with hashtag #StarkSailorAlpha, tagging @playStarkSailor"
+    }
+  }
+]

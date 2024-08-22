@@ -1,0 +1,572 @@
+[
+  {
+    "topic": "General",
+    "title": "Which blockchain does Stark Sailor run on?",
+    "answerId": 1,
+    "options": [
+      {
+        "optionId": 1,
+        "content": "Starknet"
+      },
+      {
+        "optionId": 2,
+        "content": "Monad"
+      },
+      {
+        "optionId": 3,
+        "content": "Ethereum"
+      }
+    ]
+  },
+  {
+    "topic": "General",
+    "title": "When did the 1st demo version of Stark Sailor get onboarded?",
+    "answerId": 3,
+    "options": [
+      {
+        "optionId": 1,
+        "content": "June 25"
+      },
+      {
+        "optionId": 2,
+        "content": "June 26"
+      },
+      {
+        "optionId": 3,
+        "content": "June 27"
+      }
+    ]
+  },
+  {
+    "topic": "General",
+    "title": "When were the onchain demo released?",
+    "answerId": 2,
+    "options": [
+      {
+        "optionId": 1,
+        "content": "August 10"
+      },
+      {
+        "optionId": 2,
+        "content": "August 13"
+      },
+      {
+        "optionId": 3,
+        "content": "August 15"
+      }
+    ]
+  },
+  {
+    "topic": "General",
+    "title": "Benefits of Stark Sailor WL",
+    "answerId": 3,
+    "options": [
+      {
+        "optionId": 1,
+        "content": "For INO & IDO"
+      },
+      {
+        "optionId": 2,
+        "content": "To claim Key to Alpha"
+      },
+      {
+        "optionId": 3,
+        "content": "All above"
+      }
+    ]
+  },
+  {
+    "topic": "General",
+    "title": "What is the usage of your Treasure Key?",
+    "answerId": 1,
+    "options": [
+      {
+        "optionId": 1,
+        "content": "To open Treasure Chest"
+      },
+      {
+        "optionId": 2,
+        "content": "To get access to Stark Sailor Alpha Test"
+      },
+      {
+        "optionId": 3,
+        "content": "To get whitelisted"
+      }
+    ]
+  },
+  {
+    "topic": "General",
+    "title": "What is the purpose of completing Key Puzzle?",
+    "answerId": 3,
+    "options": [
+      {
+        "optionId": 1,
+        "content": "To get whitelisted to claim Key"
+      },
+      {
+        "optionId": 2,
+        "content": "To join Alpha Test"
+      },
+      {
+        "optionId": 3,
+        "content": "All above"
+      }
+    ]
+  },
+  {
+    "topic": "Lore",
+    "title": "What can players do in the demo version?",
+    "answerId": 1,
+    "options": [
+      {
+        "optionId": 1,
+        "content": "Discover new maps & loot treasures"
+      },
+      {
+        "optionId": 2,
+        "content": "Explore a jungle & build a village"
+      },
+      {
+        "optionId": 3,
+        "content": "Compete in sports, and attend parties"
+      }
+    ]
+  },
+  {
+    "topic": "Gameplay",
+    "title": "What do players need to select before initiating an attack?",
+    "answerId": 2,
+    "options": [
+      {
+        "optionId": 1,
+        "content": "Weapons"
+      },
+      {
+        "optionId": 2,
+        "content": "Warships"
+      },
+      {
+        "optionId": 3,
+        "content": "Shields"
+      }
+    ]
+  },
+  {
+    "topic": "Gameplay",
+    "title": "Which button to view your Warships after joining Hunt Treasure map?",
+    "answerId": 1,
+    "options": [
+      {
+        "optionId": 1,
+        "content": "Fleet"
+      },
+      {
+        "optionId": 2,
+        "content": "Navy"
+      },
+      {
+        "optionId": 3,
+        "content": "Sailor"
+      }
+    ]
+  },
+  {
+    "topic": "Gameplay",
+    "title": "Which mode is available on Demo Version?",
+    "answerId": 3,
+    "options": [
+      {
+        "optionId": 1,
+        "content": "Raid Island"
+      },
+      {
+        "optionId": 2,
+        "content": "Hunt Treasure"
+      },
+      {
+        "optionId": 3,
+        "content": "All above"
+      }
+    ]
+  },
+  {
+    "topic": "Gameplay",
+    "title": "How many difficulty levels of Hunt Treasure are there?",
+    "answerId": 1,
+    "options": [
+      {
+        "optionId": 1,
+        "content": "3"
+      },
+      {
+        "optionId": 2,
+        "content": "4"
+      },
+      {
+        "optionId": 3,
+        "content": "5"
+      }
+    ]
+  },
+  {
+    "topic": "Gameplay",
+    "title": "How much Stamina does each Ship consume to join Hunt Treasure?",
+    "answerId": 2,
+    "options": [
+      {
+        "optionId": 1,
+        "content": "5"
+      },
+      {
+        "optionId": 2,
+        "content": "10"
+      },
+      {
+        "optionId": 3,
+        "content": "15"
+      }
+    ]
+  },
+  {
+    "topic": "Gameplay",
+    "title": "What will happen when you leave the map before hunting all treasures?",
+    "answerId": 2,
+    "options": [
+      {
+        "optionId": 1,
+        "content": "Treasures will be saved for your next visit."
+      },
+      {
+        "optionId": 2,
+        "content": "All collected treasures will be lost."
+      },
+      {
+        "optionId": 3,
+        "content": "Gain a temporary shield for future hunts."
+      }
+    ]
+  },
+  {
+    "topic": "Gameplay",
+    "title": "What type of battle is featured in Hunt Treasure?",
+    "answerId": 1,
+    "options": [
+      {
+        "optionId": 1,
+        "content": "Turn-based"
+      },
+      {
+        "optionId": 2,
+        "content": "Auto fight"
+      },
+      {
+        "optionId": 3,
+        "content": "Real-time strategy"
+      }
+    ]
+  },
+  {
+    "topic": "Gameplay",
+    "title": "Weapon Card boosts power for:",
+    "answerId": 3,
+    "options": [
+      {
+        "optionId": 1,
+        "content": "Warship"
+      },
+      {
+        "optionId": 2,
+        "content": "Seapet"
+      },
+      {
+        "optionId": 3,
+        "content": "All above"
+      }
+    ]
+  },
+  {
+    "topic": "Gameplay",
+    "title": "Utility of Blood Potion",
+    "answerId": 2,
+    "options": [
+      {
+        "optionId": 1,
+        "content": "To boost attack power"
+      },
+      {
+        "optionId": 2,
+        "content": "To heal the ship"
+      },
+      {
+        "optionId": 3,
+        "content": "To enhance ship speed"
+      }
+    ]
+  },
+  {
+    "topic": "Gameplay",
+    "title": "What can players choose when attacking other players’ islands?",
+    "answerId": 2,
+    "options": [
+      {
+        "optionId": 1,
+        "content": "Only ships"
+      },
+      {
+        "optionId": 2,
+        "content": "Ships and seapets"
+      },
+      {
+        "optionId": 3,
+        "content": "Only sea monsters"
+      }
+    ]
+  },
+  {
+    "topic": "Gameplay",
+    "title": "Name of a Weapon Card",
+    "answerId": 1,
+    "options": [
+      {
+        "optionId": 1,
+        "content": "Ice Arrow"
+      },
+      {
+        "optionId": 2,
+        "content": "Wood Arrow"
+      },
+      {
+        "optionId": 3,
+        "content": "Gold Arrow"
+      }
+    ]
+  },
+  {
+    "topic": "Gameplay",
+    "title": "What's the maximum number of warships a player can have in their fleet during the Demo version?",
+    "answerId": 3,
+    "options": [
+      {
+        "optionId": 1,
+        "content": "4"
+      },
+      {
+        "optionId": 2,
+        "content": "6"
+      },
+      {
+        "optionId": 3,
+        "content": "8"
+      }
+    ]
+  },
+  {
+    "topic": "Gameplay",
+    "title": "What is the main goal of Hunt Treasure feature?",
+    "answerId": 3,
+    "options": [
+      {
+        "optionId": 1,
+        "content": "To gather resources"
+      },
+      {
+        "optionId": 2,
+        "content": "To expand the island"
+      },
+      {
+        "optionId": 3,
+        "content": "To hunt hidden treasures"
+      }
+    ]
+  },
+  {
+    "topic": "Gameplay",
+    "title": "Which buildings do sailors use to view their information?",
+    "answerId": 1,
+    "options": [
+      {
+        "optionId": 1,
+        "content": "Headquater"
+      },
+      {
+        "optionId": 2,
+        "content": "Lighthouse"
+      },
+      {
+        "optionId": 3,
+        "content": "Armoury"
+      }
+    ]
+  },
+  {
+    "topic": "Technology",
+    "title": "Which language are Stark Sailor built with?",
+    "answerId": 3,
+    "options": [
+      {
+        "optionId": 1,
+        "content": "Solidity"
+      },
+      {
+        "optionId": 2,
+        "content": "Move"
+      },
+      {
+        "optionId": 3,
+        "content": "Cairo"
+      }
+    ]
+  },
+  {
+    "topic": "Technology",
+    "title": "Which game engine are Stark Sailor built with?",
+    "answerId": 3,
+    "options": [
+      {
+        "optionId": 1,
+        "content": "Dojo & MUD"
+      },
+      {
+        "optionId": 2,
+        "content": "Cartridge & Unity"
+      },
+      {
+        "optionId": 3,
+        "content": "Dojo & Unity"
+      }
+    ]
+  },
+  {
+    "topic": "Technology",
+    "title": "Characteristic of fully onchain game",
+    "answerId": 3,
+    "options": [
+      {
+        "optionId": 1,
+        "content": "Every move is a transaction"
+      },
+      {
+        "optionId": 2,
+        "content": "Transparency & ownership"
+      },
+      {
+        "optionId": 3,
+        "content": "All above"
+      }
+    ]
+  },
+  {
+    "topic": "Technology",
+    "title": "What tool does Stark Sailor use for account abstraction?",
+    "answerId": 2,
+    "options": [
+      {
+        "optionId": 1,
+        "content": "Permanent keys"
+      },
+      {
+        "optionId": 2,
+        "content": "Session keys"
+      },
+      {
+        "optionId": 3,
+        "content": "Signature requests"
+      }
+    ]
+  },
+  {
+    "topic": "NFT",
+    "title": "Which type of Stark Sailor NFT has been released?",
+    "answerId": 1,
+    "options": [
+      {
+        "optionId": 1,
+        "content": "Treasure Chest"
+      },
+      {
+        "optionId": 2,
+        "content": "Weapon Card"
+      },
+      {
+        "optionId": 3,
+        "content": "Ship"
+      }
+    ]
+  },
+  {
+    "topic": "NFT",
+    "title": "One of the color of Treasure Chest?",
+    "answerId": 1,
+    "options": [
+      {
+        "optionId": 1,
+        "content": "Black"
+      },
+      {
+        "optionId": 2,
+        "content": "Green"
+      },
+      {
+        "optionId": 3,
+        "content": "Grey"
+      }
+    ]
+  },
+  {
+    "topic": "NFT",
+    "title": "One type of Treasure Chest:",
+    "answerId": 3,
+    "options": [
+      {
+        "optionId": 1,
+        "content": "Topaz"
+      },
+      {
+        "optionId": 2,
+        "content": "Sapphire"
+      },
+      {
+        "optionId": 3,
+        "content": "All above"
+      }
+    ]
+  },
+  {
+    "topic": "NFT",
+    "title": "Which color is the Ruby Chest?",
+    "answerId": 3,
+    "options": [
+      {
+        "optionId": 1,
+        "content": "Yellow"
+      },
+      {
+        "optionId": 2,
+        "content": "Purple"
+      },
+      {
+        "optionId": 3,
+        "content": "Red"
+      }
+    ]
+  },
+  {
+    "topic": "NFT",
+    "title": "How many items are in the Hidden Treasure Chest Collection?",
+    "answerId": 3,
+    "options": [
+      {
+        "optionId": 1,
+        "content": "1000 items"
+      },
+      {
+        "optionId": 2,
+        "content": "2000 items"
+      },
+      {
+        "optionId": 3,
+        "content": "3000 items"
+      }
+    ]
+  }
+]
